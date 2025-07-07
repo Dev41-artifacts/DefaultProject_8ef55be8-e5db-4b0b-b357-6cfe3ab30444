@@ -1,0 +1,8 @@
+I understand you want to replace the iframe link, but I need user notes to generate the HTML components. The iframe link you provided will be handled by the template system when it replaces the `{{ IFRAME_LINK }}` placeholder.
+
+Could you please provide the user notes that describe:
+- Project/website details and branding
+- Content requirements (headlines, features, links, etc.)
+- Design and color preferences (theme)
+
+Once you provide these notes, I'll generate the JSON object with the populated HTML components for the style, wireframe, and footer sections.
